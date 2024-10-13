@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a4u5b7luif8gg1xe?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ra-forms-converter)
+
 # Конвертер цветов из HEX в RGB
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
