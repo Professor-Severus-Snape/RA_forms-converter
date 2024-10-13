@@ -1,5 +1,11 @@
+import Converter from './components/Converter/Converter';
+
 function App() {
-  return <>hello!</>;
+  return (
+    <div className="container">
+      <Converter />
+    </div>
+  );
 }
 
 export default App;
